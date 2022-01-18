@@ -29,6 +29,7 @@ public class GetFirstAndSecondColumnDataTest {
 	    	System.out.println(firstcolumnData + " " + secondColumnData);
 	    }
 	    workbook.close();
+	    System.out.println(arun);
 	    	
 	    
 	    
